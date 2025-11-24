@@ -1,4 +1,4 @@
-📘 Deep Learning & NLP: LSTM + Word Embeddings + Bagging & Boosting
+# 📘 Deep Learning & NLP: LSTM + Word Embeddings + Bagging & Boosting
 
 Notebook: dl_lstm_bagging_boosting.ipynb
 
